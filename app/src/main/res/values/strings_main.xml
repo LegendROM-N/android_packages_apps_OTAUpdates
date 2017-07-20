@@ -57,6 +57,6 @@
     <string name="main_release_ignored">Release ignored</string>
 
     <!-- Downloading update notification title -->
-    <string name="notif_ota_downloading_title">halogenOS OTA Update</string>
+    <string name="notif_ota_downloading_title">LegendROM OTA Update</string>
 
 </resources>
